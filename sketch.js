@@ -18,6 +18,8 @@ function preload(){
 function setup() {
   var h1 = createElement("h1","Pi Collisions");
   
+  createP("HEYYY");
+  
   var p1 = createP("This is the most inefficient, yet perhaps the most elegant way to calculate the digits of Pi.");
   p1.style("font-size", "18pt");
   p1.style("background-color", "pink");
