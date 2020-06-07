@@ -12,7 +12,7 @@ var digstr = "5";
 var p2
 
 function preload(){
-  clack = loadSound('https://rossnhi.github.io/Pi-Collisions/click.wav'); 
+  clack = loadSound('https://raw.githubusercontent.com/rossnhi.github.io/Pi-Collisions/click.wav'); 
 }
 
 function setup() {
@@ -31,7 +31,7 @@ function setup() {
 
   var canvas = createCanvas(750, 550);    
   
-  createA("https://raw.githubusercontent.com/Rossnhi/Pi-Collisions","Source Code");
+  createA("https://github.com/Rossnhi/Pi-Collisions","Source Code");
   
 createP("");
   
