@@ -12,7 +12,7 @@ var digstr = "5";
 var p2
 
 function preload(){
-  clack = loadSound('click.wav'); 
+  clack = loadSound('https://rossnhi.github.io/Pi-Collisions/click.wav'); 
 }
 
 function setup() {
