@@ -12,7 +12,7 @@ var digstr = "5";
 var p2
 
 function preload(){
-  clack = loadSound('clack.wav'); 
+  clack = loadSound('click.wav'); 
 }
 
 function setup() {
