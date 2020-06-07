@@ -31,7 +31,7 @@ function setup() {
 
   var canvas = createCanvas(750, 550);    
   
-  createA("https://github.com/Rossnhi/Pi-Collisions","Source Code");
+  createA("https://raw.githubusercontent.com/Rossnhi/Pi-Collisions","Source Code");
   
 createP("");
   
